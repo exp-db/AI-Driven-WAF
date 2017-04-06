@@ -2,8 +2,8 @@
 
 1. 系统依赖软件
 
-sudo apt-get install python-matplotlib ipython ipython-notebook
-sudo apt-get install python-pandas python-sympy python-nose
+    sudo apt-get install python-matplotlib ipython ipython-notebook
+    sudo apt-get install python-pandas python-sympy python-nose
 
 2. python机器学习库
 
