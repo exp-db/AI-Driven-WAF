@@ -1,5 +1,7 @@
 ## 环境
 
+> Python 环境： 3.5
+
 1. 系统依赖软件
 
         sudo apt-get install python-matplotlib ipython ipython-notebook
@@ -8,11 +10,11 @@
 
 2. python机器学习库
 
-直接 pip install -r requirement.txt  即可
+        直接 pip install -r requirement.txt  即可
 
 ## 运行
 
-直接 python waf.py
+        python3 waf.py
 
 ## 说明
 
